@@ -4,7 +4,7 @@
 
 ## 🛠 Habilidades e Tecnologias
 
-[![Minhas Skills](https://skillicons.dev/icons?i=html,js,python,git,github)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=html,linux,java,python,git,github)](https://skillicons.dev)
 
 ## 📊 Estatísticas do GitHub
 
