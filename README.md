@@ -6,6 +6,4 @@
 
 [![Minhas Skills](https://skillicons.dev/icons?i=linux,java,debian,ubuntu,github)](https://skillicons.dev)
 
-## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
